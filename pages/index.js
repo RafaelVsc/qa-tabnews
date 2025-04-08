@@ -29,7 +29,7 @@ function Home() {
         `}
       </style>
       <h1>👋 Olá, eu sou o Rafael! 👨‍💻</h1>
-      <p>🚀 Falo sobre Qualidade de Software e Desenvolvimento 💡</p>
+      <p>🚀 Falo sobre Qualidade de Software, Automação de testes e Desenvolvimento! 💡</p>
       <a
         href="https://www.youtube.com/@QAverso"
         target="_blank"

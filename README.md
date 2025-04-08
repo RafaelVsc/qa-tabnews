@@ -1,1 +1,2 @@
-# qa-tabnews
+# qa-tabnews  testando git ammend
+teste
